@@ -1,6 +1,6 @@
 # Bin and Recycling Container Schedules
 
-Dundee City City Council continues to introduce [kerbside recycling on a phased approach](http://www.dundeecity.gov.uk/recyclefordundee/). 
+Dundee City Council continues to introduce [kerbside recycling on a phased approach](http://www.dundeecity.gov.uk/recyclefordundee/). 
 
 Our database for managing bins and routes does not yet hold the full details of the schedules at a household level as this is managed through a separate process.
 
